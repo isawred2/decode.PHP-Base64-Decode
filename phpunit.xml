@@ -1,0 +1,14 @@
+<phpunit
+		backupGlobals="false"
+		colors="true"
+		>
+	<php>
+    	<includePath>.</includePath>
+	</php>
+	<testsuites>
+		<!-- Default test suite to run all tests -->
+		<testsuite>
+			<directory suffix=".php">test</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>
