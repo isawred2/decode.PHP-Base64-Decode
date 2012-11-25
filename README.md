@@ -1,6 +1,6 @@
 # PHP Base64 Decode
 
-Why have a custom Base64 decode function if php already provides the native `base64_decode` function? Well, some strict web hosts disable the native one to prevent exploits that use that method.
+Why have a custom Base64 decode function if PHP already provides the native `base64_decode` function? Well, some strict web hosts disable the native one to prevent exploits that use that method.
 
 ### Usage
 
